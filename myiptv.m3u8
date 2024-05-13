@@ -2,18 +2,24 @@
 
 ####################################### Chinese #######################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="8TV" ch-number="148" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",8TV (Tonton)
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="8TV" ch-number="148" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",8TV (Unifi)
+#EXTINF:-1 tvg-id="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" ch-number="148" group-title="Chinese",8TV (Unifi)
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
 #EXTINF:-1 tvg-id="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" ch-number="148" group-title="Chinese",8TV (Astro)
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/911/manifest.mpd
-
-#EXTINF:-1 tvg-id="8TV" ch-number="148" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Chinese",8TV (wanicelife)
-http://muka03.wanicelife.com:8880/D12m2370/88152514/1730
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/911/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
@@ -30,18 +36,15 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01eb1168208940f8b270b4e0994570e7:e75165d38b909567c03353ae4b27b6f8
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",Astro AEC HD (Astro)
-#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSTJNakpqWW1ZdE5tWmhNeTAwT0dFMkxUaGpabU10T0dJNU1UVmhOemxtWVRkbCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMzkxOTIxNSwiaWF0IjoxNzEzMzE1MjE1fQ.-9IKSpcObq7xKUsyK-EMFg5DB501Vqf6gHEtQT6Bcvc","3y37WdNxsDTNAF8651xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d7f1d087"}
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVTNZalJoT1RJdFlqQm1ZaTAwWW1RNUxXRTRPV0l0WkRGa09XSmlabU00TURReSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNjAxNTMzMSwiaWF0IjoxNzE1NDExMzMxfQ.qxViHwa-K-Lu7O5EZQbhAwrYDS8ncLfowi0a6k3u-IQ","3y37WdNxsDTNAF8651xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d74f95cd"}
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
-
-#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Chinese",Astro AEC (wanicelife)
-http://muka03.wanicelife.com:8880/D12m2370/88152514/1723
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b0e7dbe25e6c49f9b525e614fc4aa60c:02223965e33f7bf1e6c21278063bb508
 #EXTINF:-1 tvg-id="AstroQJ" ch-number="308" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Astro QJ
-#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yWmxaVGs0WVdVdE56UXdNaTAwWldVM0xUZ3hZelV0WVRRNU1tSm1aVGN3WWpFMyIsIndtb3BpZCI6MzIsImV4cCI6MTcxNDA0OTMxMCwiaWF0IjoxNzEzNDQ1MzEwfQ.hYLxPajROhh-POFHuvPBFcjEP-br_phJAj4lT7kQl4E","3y37WdNxsDTNAF8651xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d7902e53"}
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVTNZalJoT1RJdFlqQm1ZaTAwWW1RNUxXRTRPV0l0WkRGa09XSmlabU00TURReSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNjAxNTMzMSwiaWF0IjoxNzE1NDExMzMxfQ.qxViHwa-K-Lu7O5EZQbhAwrYDS8ncLfowi0a6k3u-IQ","3y37WdNxsDTNAF8651xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d74f95cd"}
 https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="Chinese",Celestial Movies HD
@@ -128,9 +131,11 @@ https://ythls-v2.onrender.com/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
 #EXTINF:-1 tvg-id="LoveNature4K" ch-number="549" group-title="Documentaries" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/472_144.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d1plTAYQgRrQIjKaaIhN4Q", "kid":"FovYFUaGOf5FKLS/AUHzEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="LoveNature" ch-number="550" group-title="Documentaries" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",Love Nature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5096/manifest.mpd
 
 #EXTINF:-1 tvg-id="GlobalTrekker" ch-number="551" group-title="Documentaries" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png",Global Trekker
