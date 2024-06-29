@@ -271,7 +271,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroSupersport" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",Astro SuperSport HD
+#EXTINF:-1 tvg-id="AstroSupersport" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",Astro SuperSport HD
 #EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6TTNZVGhqTnpJdFpUbG1OQzAwWXpFd0xXRmhaVEF0WlRFNE9HRTRaREE0TldaayIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTkzNjE1MSwiaWF0IjoxNzE5MzMyMTUxfQ.mdPy9pmrNR6JsO1hTzR_7LLWTl0lbv9QGPqh86C3y2Q","3y37WdNxsDTNAF8651xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d7"}
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
