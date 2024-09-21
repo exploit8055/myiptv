@@ -128,6 +128,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/manifest.mpd
 
+#EXTINF:-1 tvg-id="CCTV9" ch-number="1000" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg" group-title="Chinese",CCTV-9
+http://120.77.28.4:8648/mgu.php?id=cctv9
+
+#EXTINF:-1 tvg-id="CCTV10" ch-number="1001" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv10.jpg" group-title="Chinese",CCTV-10
+http://120.77.28.4:8648/mgu.php?id=cctv10
+
+#EXTINF:-1 tvg-id="江苏卫视" ch-number="1002" tvg-logo="https://www.tvchinese.net/uploads/tv/jiangsutv.jpg" group-title="Chinese",Jiangsu TV
+http://120.77.28.4:8648/mgu.php?id=jsws
+
 ####################################### Singapore #######################################
 
 #EXTINF:-1 group-title="Singapore" group-logo="https://static.mewatch.sg/favicon.png" tvg-id="Ch 8" ch-number="997" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/300px-Mediacorp_Channel_8_2023.svg.png",Channel 8
