@@ -5,10 +5,8 @@
 #EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV (Tonton)
 https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=01eb1168208940f8b270b4e0994570e7:e75165d38b909567c03353ae4b27b6f8
+#EXTM3U
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",Astro AEC HD (Astro)
-#EXTHTTP:{"Host": "d19aws0kb3k8ki.cloudfront.net", "X-Playback-Session-Id": "9713607C-5E1E-43D9-9127-2926994B229C", "User-Agent": "playkit/ios-3.28.0 Sooka/24.07.01 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X)", "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XUXhZVFU1WmpZdFpqSXdPQzAwWkdZMkxUaGpNRFF0WldJNFpXVXlOMlkxTURNdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyODgxMDc2OCwiaWF0IjoxNzI4MjA2NzY4fQ.lu4by0-yEBwEm6PFZEDZPBfcnpHi-Vfs0Ffp6_Nsyrk", "Accept-Encoding": "gzip", "Accept-Language": "en-US,en;q=0.9"}
+#EXTVLCOPT:http-user-agent=playkit/ios-3.28.0 Sooka/24.07.01 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X)
+#EXTVLCOPT:http-header=Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XUXhZVFU1WmpZdFpqSXdPQzAwWkdZMkxUaGpNRFF0WldJNFpXVXlOMlkxTURNdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyODgxMDc2OCwiaWF0IjoxNzI4MjA2NzY4fQ.lu4by0-yEBwEm6PFZEDZPBfcnpHi-Vfs0Ffp6_Nsyrk
 https://d19aws0kb3k8ki.cloudfront.net/v1/manifest/7d6144f66f990e10fc667942d522b82f89ae5cd9/SOOKA_SSAI_CH5_AEC_HLS/63fb6708-ab41-4ec7-a7ba-56feffb8b066/5.m3u8
