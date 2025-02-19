@@ -46,6 +46,15 @@ https://l04.dp.sooka.my/2400/linear/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3Mzk5Nzg0ODAsImlzcyI6IlZSIiwiZXhwIjoxNzQwMDA3MjgwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNWY3MjI3NzgtNTdlNC00NjkwLWI5ODQtMzA5NDhlZmI0NWIwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.5ENxsd9EViEQH_eCfe28H1_NkInrTz7ljbXHgR3CgKQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"655b6df8085d4fe6b3f71c0f4288f98a":"5f0d4251e05e0a3a661218169ee84181","d66e2fe5f045426195d432802f9ba807":"6fe283a6f1f3a3fb69f82c4340e0dde2"}
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",Astro AEC HD (Astro Test)
+https://l04.dp.sooka.my/2400/linear/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3Mzk5NjY5OTIsImlzcyI6IlZSIiwiZXhwIjoxNzQwMDA0MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjJiMDU4OGItY2VhZi00YjA2LWJkYmUtOTJhNTM2ZTNiY2M1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MTA4MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.jWyqFXFamsvH2kJ5BuM8WoVJl3rmGiXYHwGtN5TKIT0"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -135,13 +144,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
 
 #EXTINF:-1 tvg-id="CCTV9" ch-number="1000" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg" group-title="Chinese",CCTV-9
-http://fm1077.serv00.net/Smart.php?id=cctv9hd
+http://z.b.bkpcp.top/m.php?id=cctv9
+https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc81010adc8707f80e51e9d3491ad67bfa71388ad768f7b52c8064338a7ef45eb7ddb192fb4937b21681c82499a0c16653ad9a9bec98ff5ce6ab183e4029bbdf269e
 
 #EXTINF:-1 tvg-id="CCTV10" ch-number="1001" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv10.jpg" group-title="Chinese",CCTV-10
-http://fm1077.serv00.net/Smart.php?id=cctv10hd
+http://z.b.bkpcp.top/m.php?id=cctv10
 
 #EXTINF:-1 tvg-id="江苏卫视" ch-number="1002" tvg-logo="https://www.tvchinese.net/uploads/tv/jiangsutv.jpg" group-title="Chinese",Jiangsu TV
-http://fm1077.serv00.net/Smart.php?id=jiangsu_twn
+http://z.b.bkpcp.top/m.php?id=jsws
 
 ####################################### Singapore #######################################
 
