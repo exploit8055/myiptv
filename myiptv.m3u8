@@ -1,8 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://assets.livednow.com/epg.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://assets.livednow.com/epg.xml"
 
 ####################################### Chinese #######################################
-
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -136,6 +135,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
 
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 #EXTINF:-1 tvg-id="CCTV9" ch-number="1000" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg" group-title="Chinese",CCTV-9
 http://z.b.bkpcp.top/m.php?id=cctv9
 
@@ -147,6 +147,7 @@ http://z.b.bkpcp.top/m.php?id=jsws
 
 ####################################### Singapore #######################################
 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml"
 #EXTINF:-1 group-title="Singapore" group-logo="https://static.mewatch.sg/favicon.png" tvg-id="Ch 8" ch-number="997" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/300px-Mediacorp_Channel_8_2023.svg.png",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8
@@ -172,10 +173,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd
 
 ####################################### Documentaries #######################################
 
+#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=12023"
 #EXTINF:-1 tvg-id="NatGeoWild" ch-number="322" group-title="Documentaries" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild
 http://45.159.93.14:8080/144264/661943/22125
 http://1tv41.icu:8080/live/phi@live.ca/phi@3574/53693.ts
 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -216,6 +219,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 
 ####################################### Kids #######################################
 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
