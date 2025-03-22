@@ -1,5 +1,4 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,NAME="Live",X-CUSTOM-HEADERS="Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDI2NzUzNjksImlzcyI6IlZFIiwiZXhwIjoxNzQyNzA0MTY5LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYTFkZTY5NzgtMzIxMy00YmQ1LWE2MDMtZmFhNmJkNDE5MjBjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIikifQ.a7-kIxzaTd4cfYwycTgDXhIhQn4hub5IkYDLj1wvSgw"
-http://l04.dp.sooka.my/2400/linear/2400-video=484400.m3u8
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://assets.livednow.com/epg.xml"
 
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",Astro AEC HD
+https://jandatv.online/memfs/46f7ff9e-0e17-4fe3-ac7e-bcddf4987c9f_output_0.m3u8
