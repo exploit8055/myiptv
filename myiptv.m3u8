@@ -1,7 +1,8 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://assets.livednow.com/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://assets.livednow.com/epg.xml"
+#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=12023"
 
 ####################################### Chinese #######################################
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -37,17 +38,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDI3MDU5NjIsImlzcyI6IlZSIiwiZXhwIjoxNzQyNzY5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGI4MmNmNjMtNzllZC00Y2Y1LThhZWUtMDQ0N2Y4YWZhMjU5IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MTA4MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.uqEQ8xnBD1uxD9hCjcZRq2_sovLeki8haP7OuEshg4o"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inpu"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDI2MjIxMzcsImlzcyI6IlZSIiwiZXhwIjoxNzQyNjgyNjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZmJlY2ZlZTktYmQzZC00OGU3LTg0NmMtMTBhZjk5MDYxM2EyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.lxgzX3CaQ1GM44yUsS9RIBOGqTR9Te3nh5mzRThJI_4"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"655b6df8085d4fe6b3f71c0f4288f98a":"5f0d4251e05e0a3a661218169ee84181","d66e2fe5f045426195d432802f9ba807":"6fe283a6f1f3a3fb69f82c4340e0dde2"}
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",Astro AEC HD
 https://l04.dp.sooka.my/2400/linear/index.mpd
 https://jandatv.online/memfs/46f7ff9e-0e17-4fe3-ac7e-bcddf4987c9f_output_0.m3u8
-http://iptv12k.com:35461/m250121023861385/111111/13597
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/astroaec/AKTV.m3u8
+http://iptv12k.com:35461/live/test167/12345/13597.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -139,17 +138,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 #EXTINF:-1 tvg-id="CCTV9" ch-number="1000" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg" group-title="Chinese",CCTV-9
-http://iptv12k.com:35461/m250121023861385/111111/13280
+http://iptv12k.com:35461/live/test167/12345/13280.m3u8
 
 #EXTINF:-1 tvg-id="CCTV10" ch-number="1001" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv10.jpg" group-title="Chinese",CCTV-10
-http://iptv12k.com:35461/m250121023861385/111111/13279
+http://iptv12k.com:35461/live/test167/12345/13279.m3u8
 
 #EXTINF:-1 tvg-id="江苏卫视" ch-number="1002" tvg-logo="https://www.tvchinese.net/uploads/tv/jiangsutv.jpg" group-title="Chinese",Jiangsu TV
-http://iptv12k.com:35461/m250121023861385/111111/13291
+http://iptv12k.com:35461/live/test167/12345/13291.m3u8
 
 ####################################### Singapore #######################################
 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml"
 #EXTINF:-1 group-title="Singapore" group-logo="https://static.mewatch.sg/favicon.png" tvg-id="Ch 8" ch-number="997" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/300px-Mediacorp_Channel_8_2023.svg.png",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8
@@ -175,9 +173,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 
 ####################################### Documentaries #######################################
 
-#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=12023"
 #EXTINF:-1 tvg-id="NatGeoWild" ch-number="322" group-title="Documentaries" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild
-http://iptv12k.com:35461/m250121023861385/111111/13597
+http://iptv12k.com:35461/live/test167/12345/13534.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
