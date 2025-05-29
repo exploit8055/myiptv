@@ -171,6 +171,14 @@
       "playerType": 2
     },
     {
+      "name": "SimpleTV Free",
+      "type": 0,
+      "url": "https://free.radiotv.workers.dev/",
+      "ua": "okhttp",
+      "timeout": 30,
+      "playerType": 2
+    },
+    {
       "name": "PerfectTV",
       "type": 0,
       "url": "https://perfecttv.net/PerfecttvFree.m3u",
