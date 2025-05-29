@@ -187,8 +187,13 @@
       "playerType": 2
     },
     {
+      "name": "SMT直播(python)",
+      "type": 3,
+      "api": "https://json.doube.eu.org/python/live_smt.py"
+    },
+    {
       "name": "斯玛特全球直播",
-      "type": 0,
+      "type": 3,
       "api": "https://raw.githubusercontent.com/doube-ba/Sub/main/live/live_smt.py",
       "ext":{}
     }
