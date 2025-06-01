@@ -28,7 +28,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41wu4LJZNkZ3W4OKy50qOR0GgnQKOd4zye2Y3ZNrjNmE8=xwMz/dash-wv/jitp-dashisowm/2400/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41WUNvVDOJzHzT3wtJ5H9SgRs4JuhJ0_dfoTrKaJU8kJE=HnMf/dash-wv/jitp-dashisowm/2400/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41WUNvVDOJzHzT3wtJ5H9SgRs4JuhJ0_dfoTrKaJU8kJE=HnMf/dash-wv/jitp-dashisowm/2400/default_primary.mpd
 http://php.jdshipin.com:8880/smt.php?id=AEC
 
 #EXTINF:-1 tvg-id="AstroQJ" ch-number="308" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Astro QJ
@@ -123,8 +124,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 ####################################### China #######################################
 
 #EXTINF:-1 tvg-id="CCTV1" ch-number="1001" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China",CCTV-1
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 http://106.52.196.79:80/TV/mui.php?id=cctv1
 
