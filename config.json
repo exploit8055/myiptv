@@ -6,7 +6,7 @@
       "name": "《豆瓣🔹热播》",
       "type": 3,
       "api": "csp_Douban",
-      "spider": "https://github.com/exploit8055/myiptv/raw/main/jar/fm.jar",
+      "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/fm.jar",
       "searchable": 0,
       "changeable": 1,
       "ext": "https://github.com/exploit8055/myiptv/raw/main/lib/douban.json"
