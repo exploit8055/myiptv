@@ -1,11 +1,16 @@
 {
-  "spider": "https://github.com/exploit8055/myiptv/raw/main/jar/anbox.jar",
   "warningText": "MyTVBox",
   "sites": [
 
-{"key":"豆瓣","name":"豆瓣热播请关注公众号：“开心软件”不迷路","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
-
-
+    {
+      "key": "豆瓣",
+      "name": "豆瓣热播请关注公众号：“开心软件”不迷路",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/anbox.jar",	
+      "searchable": 0,
+      "changeable": 1
+    },
     {
       "key": "爱看机器人",
       "name": "《爱看🔹影视》",
@@ -155,8 +160,15 @@
       "User-Agent": "Lavf/58.12.100"
     }
     },
-
-{"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com"}
+    {
+      "key": "荐片",
+      "name": "💡荐片｜影视",
+      "api": "csp_Jianpian",
+      "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/anbox.jar",
+      "type": 3,
+      "playerType": 1,
+      "ext": "http://api2.rinhome.com"
+    }
 
   ],
   "lives": [
