@@ -4,7 +4,7 @@
 
     {
       "key": "豆瓣",
-      "name": "豆瓣热播请关注公众号：“开心软件”不迷路",
+      "name": "《豆瓣🔹热播》",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/anbox.jar",	
@@ -162,7 +162,7 @@
     },
     {
       "key": "荐片",
-      "name": "💡荐片｜影视",
+      "name": "《荐片🔹影视》",
       "api": "csp_Jianpian",
       "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/anbox.jar",
       "type": 3,
@@ -185,6 +185,11 @@
       "name": "SimpleTV Free",
       "url": "https://free.radiotv.workers.dev/",
       "ua": "okhttp"
+    },
+    {
+      "name": "OTT TV",
+      "url": "https://syokkterbaik.serv00.net/freeforever",
+      "ua": "syokfree909"
     },
     {
       "name": "PerfectTV",
