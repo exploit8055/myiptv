@@ -180,25 +180,25 @@
       "name": "SimpleTV",
       "url": "https://simple.radiotv.workers.dev/",
       "ua": "okhttp",
-      "timeout": 30,
+      "timeout": 30
     },
     {
       "name": "SimpleTV Free",
       "url": "https://free.radiotv.workers.dev/",
       "ua": "okhttp",
-      "timeout": 30,
+      "timeout": 30
     },
     {
       "name": "PerfectTV",
       "url": "https://perfecttv.net/PerfecttvFree.m3u",
       "ua": "okhttp",
-      "timeout": 30,
+      "timeout": 30
     },
     {
       "name": "斯马特",
       "url": "https://smt.iktv.ddns-ip.net/Smart.php",
       "ua": "okhttp",
-      "timeout": 30,
+      "timeout": 30
     }
   ]
 }
