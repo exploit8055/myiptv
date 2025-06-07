@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.com/exploit8055/myiptv/raw/main/jar/fm.jar",
+  "spider": "https://github.com/exploit8055/myiptv/raw/main/jar/fm2.jar",
   "warningText": "MyTVBox",
   "sites": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "key":"爱看机器人",
-      "name":"《爱看🔹热播》",
+      "name":"《爱看🔹影视》",
       "type":3,
       "api":"csp_Ikanbot",
       "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/wzxo20250523.jar",	
@@ -33,12 +33,12 @@
       "ext": "https://github.com/exploit8055/myiptv/raw/main/lib/duboku.json"
     },
     {
-      "key": "毒舌影视",
-      "name": "《毒舌🔹影视》",
+      "key": "可可影视",
+      "name": "《可可🔹影视》",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/xbpq.jar",
-      "ext": "https://github.com/exploit8055/myiptv/raw/main/lib/dushe.json"
+      "ext": "https://github.com/exploit8055/myiptv/raw/main/lib/keke.json"
     },
     {
       "key": "Cori爱壹帆",
