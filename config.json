@@ -1,16 +1,44 @@
 {
-  "spider": "https://github.com/exploit8055/myiptv/raw/main/custom_spider.jar",
+  "spider": "https://github.com/exploit8055/myiptv/raw/main/jar/fm.jar",
   "warningText": "MyTVBox",
   "sites": [
     {
-      "key": "csp_douban",
+      "key": "豆瓣",
       "name": "《豆瓣🔹热播》",
       "type": 3,
-      "api": "csp_DouDou",
-      "jar": "https://github.com/exploit8055/myiptv/raw/main/fty.jar",
+      "api": "csp_Douban",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "changeable": 1,
+      "ext": "https://github.com/exploit8055/myiptv/raw/main/lib/douban.json"
+    },
+    {
+      "key": "爱看机器人",
+      "name": "《爱看🔹影视》",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "api": "https://github.com/exploit8055/myiptv/raw/main/lib/drpy2.min.js",
+      "ext": "https://github.com/exploit8055/myiptv/raw/main/lib/ikanbot.js"
+    },
+	{
+      "key": "csp_xpath_独播库",
+      "name": "《独播库🔹影视》",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/custom_spider.jar",
+      "ext": "https://github.com/exploit8055/myiptv/raw/main/lib/duboku.json"
+    },
+    {
+      "key": "毒舌影视",
+      "name": "《毒舌🔹影视》",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/xbpq.jar",
+      "ext": "https://github.com/exploit8055/myiptv/raw/main/js/dushe.json"
     },
     {
       "key": "Cori爱壹帆",
@@ -121,17 +149,6 @@
       }
     },
     {
-      "key": "csp_红狐狸影视",
-      "name": "《红狐狸🔹影视》",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://github.com/exploit8055/myiptv/raw/main/xbpq.jar",
-      "ext": {
-      "分类url": "https://honghuli.com/type/{cateId}.html",
-      "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
-    },
-    {
       "key": "黑木影视",
       "name": "《黑木🔹影视》",
       "type": 1,
@@ -141,20 +158,17 @@
       "filterable": 0,
       "header": {
       "User-Agent": "Lavf/58.12.100"
-      }
-      },
+    }
+    },
     {
       "key": "荐片",
       "name": "《荐片🔹影视》",
       "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
+      "api": "https://github.com/exploit8055/myiptv/raw/main/lib/drpy2.min.js",
       "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "playerType": 1,
-      "ext": {
-      "danmu": false
-    }
+      "ext": "https://github.com/exploit8055/myiptv/raw/main/lib/jp.js"
     }
   ],
   "lives": [
@@ -164,27 +178,27 @@
     },
     {
       "name": "SimpleTV",
-      "type": 0,
       "url": "https://simple.radiotv.workers.dev/",
       "ua": "okhttp",
       "timeout": 30,
-      "playerType": 2
     },
     {
       "name": "SimpleTV Free",
-      "type": 0,
       "url": "https://free.radiotv.workers.dev/",
       "ua": "okhttp",
       "timeout": 30,
-      "playerType": 2
     },
     {
       "name": "PerfectTV",
-      "type": 0,
       "url": "https://perfecttv.net/PerfecttvFree.m3u",
       "ua": "okhttp",
       "timeout": 30,
-      "playerType": 2
+    },
+    {
+      "name": "斯马特",
+      "url": "https://smt.iktv.ddns-ip.net/Smart.php",
+      "ua": "okhttp",
+      "timeout": 30,
     }
   ]
 }
