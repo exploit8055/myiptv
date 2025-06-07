@@ -185,14 +185,6 @@
       "ua": "okhttp",
       "timeout": 30,
       "playerType": 2
-    },
-    {
-      "name": "SyokTV",
-      "type": 0,
-      "url": "https://syokkterbaik.serv00.net/freeforever",
-      "ua": "syokfree909",
-      "timeout": 30,
-      "playerType": 2
     }
   ]
 }
