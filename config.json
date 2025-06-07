@@ -12,15 +12,14 @@
       "ext": "https://github.com/exploit8055/myiptv/raw/main/lib/douban.json"
     },
     {
-      "key": "爱看机器人",
-      "name": "《爱看🔹影视》",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "api": "https://github.com/exploit8055/myiptv/raw/main/lib/drpy2.min.js",
-      "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/fm.jar",
-      "ext": "https://github.com/exploit8055/myiptv/raw/main/lib/ikanbot.js"
+      "key":"爱看机器人",
+      "name":"《爱看🔹热播》",
+      "type":3,
+      "api":"csp_Ikanbot",
+      "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/wzxo20250523.jar",	
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
     },
 	{
       "key": "csp_xpath_独播库",
@@ -39,16 +38,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/xbpq.jar",
-      "ext": "https://github.com/exploit8055/myiptv/raw/main/js/dushe.json"
-    },
-    {
-      "key": "玉米",
-      "name":"《玉米🔹影视》",
-      "type": 3,
-      "api": "csp_Xdai",
-      "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/xczsvip.jar",
-      "playerType": 1,
-      "ext": "https://www.zjc.app/lander?ab4e9a421675f14b|ab4e9a421675f14b42"
+      "ext": "https://github.com/exploit8055/myiptv/raw/main/lib/dushe.json"
     },
     {
       "key": "Cori爱壹帆",
@@ -171,14 +161,21 @@
     }
     },
     {
-      "key": "荐片",
+      "key": "荐片弹幕版",
       "name": "《荐片🔹影视》",
-      "api": "csp_Jianpian",
-      "jar": "https://xcz.iptv365.org/wzxo20250523.php",
       "type": 3,
-      "playerType": 1,
-      "ext": "http://api2.rinhome.com/"
+      "api": "csp_Jianpian",
+      "jar": "https://github.com/exploit8055/myiptv/raw/main/jar/tvkj.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": false
+      },
+      "timeout": 10
     }
+
   ],
   "lives": [
     {
