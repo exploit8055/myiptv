@@ -158,14 +158,14 @@
       "ua": "okhttp"
     },
     {
-      "name": "OTT TV",
-      "url": "https://syokkterbaik.serv00.net/freeforever",
-      "ua": "syokfree909"
+      "name": "AnboxTV",
+      "url": "https://ottplus.anbox118.workers.dev/",
+      "ua": "okhttp"
     },
     {
       "name": "PerfectTV",
       "url": "https://perfecttv.net/PerfecttvFree.m3u",
-      "ua": "okhttp"
+      "ua": "PerfectTv v3"
     },
     {
       "name": "斯马特",
