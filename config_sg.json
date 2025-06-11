@@ -168,8 +168,11 @@
     },
     {
       "name": "AnboxTV",
-      "url": "https://ottplus.anbox118.workers.dev/",
-      "ua": "okhttp"
+      "type": 0,
+      "url": "https://firebase.anbox118.workers.dev/",
+      "ua": "okhttp",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "PerfectTV",
