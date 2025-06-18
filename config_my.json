@@ -148,29 +148,32 @@
       "url": "https://raw.githubusercontent.com/exploit8055/myiptv/main/myiptv.m3u8"
     },
     {
-      "name": "SimpleTV",
-      "url": "https://simple.radiotv.workers.dev/",
-      "ua": "okhttp"
-    },
-    {
       "name": "SimpleTV Free",
       "url": "https://free.radiotv.workers.dev/",
       "ua": "okhttp"
     },
     {
-      "name": "AnboxTV",
+      "name": "Anbox Channels ip-ddns",
+      "url": "http://tv.anbox.ip-ddns.com/live",
+      "ua": "OTT Navigator/2.0 (Android)"
+    },
+    {
+      "name": "Anbox Channels ottplus",
+      "type": 0,
       "url": "https://ottplus.anbox118.workers.dev/",
-      "ua": "okhttp"
+      "ua": "okhttp",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "SyokTV",
+      "url": "https://syokkterbaik.serv00.net/playlist/playlist.php?key=user8700976",
+      "ua": "OTT Navigator/2.0 (Android)"
     },
     {
       "name": "PerfectTV",
       "url": "https://perfecttv.net/PerfecttvFree.m3u",
       "ua": "PerfectTv v3"
-    },
-    {
-      "name": "斯马特",
-      "url": "https://smt.iktv.ddns-ip.net/Smart.php",
-      "ua": "okhttp"
     }
   ]
 }

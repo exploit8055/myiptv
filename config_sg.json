@@ -157,19 +157,19 @@
       "url": "https://raw.githubusercontent.com/exploit8055/myiptv/main/myiptv.m3u8"
     },
     {
-      "name": "SimpleTV",
-      "url": "https://simple.radiotv.workers.dev/",
-      "ua": "okhttp"
-    },
-    {
       "name": "SimpleTV Free",
       "url": "https://free.radiotv.workers.dev/",
       "ua": "okhttp"
     },
     {
-      "name": "AnboxTV",
+      "name": "Anbox Channels ip-ddns",
+      "url": "http://tv.anbox.ip-ddns.com/live",
+      "ua": "OTT Navigator/2.0 (Android)"
+    },
+    {
+      "name": "Anbox Channels ottplus",
       "type": 0,
-      "url": "https://firebase.anbox118.workers.dev/",
+      "url": "https://ottplus.anbox118.workers.dev/",
       "ua": "okhttp",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -178,16 +178,6 @@
       "name": "PerfectTV",
       "url": "https://perfecttv.net/PerfecttvFree.m3u",
       "ua": "PerfectTv v3"
-    },
-    {
-      "name": "M3U TV",
-      "url": "http://晓峰.azip.dpdns.org:5008/?type=m3u",
-      "ua": "okhttp"
-    },
-    {
-      "name": "斯马特",
-      "url": "https://smt.iktv.ddns-ip.net/Smart.php",
-      "ua": "okhttp"
     },
     {
       "name": "欧华直播",
