@@ -158,8 +158,8 @@
     },
     {
       "name": "SimpleTV Free",
-      "url": "https://free.radiotv.workers.dev/",
-      "ua": "okhttp"
+      "url": "https://etus.link/ottsimple",
+      "ua": "OTT Navigator/2.0 (Android)"
     },
     {
       "name": "Anbox Channels ip-ddns",
