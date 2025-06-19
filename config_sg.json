@@ -175,16 +175,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "PerfectTV",
-      "url": "https://perfecttv.net/PerfecttvFree.m3u",
-      "ua": "PerfectTv v3"
-    },
-    {
-      "name": "RocketTV",
-      "url": "https://iptv.rocket-tv.online/Nenen/playlist.m3u",
-      "ua": "OTT Navigator/2.0 (Android)"
-    },
-    {
       "name": "欧华直播",
       "type": 0,
       "url": "http://files.catbox.moe/hppkqj.txt",
