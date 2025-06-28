@@ -1,0 +1,32 @@
+####################################### Chinese #######################################
+
+#EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
+https://hls-gateway.vpstv.net/streams/476322.m3u8
+
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",Astro AEC 1
+https://hls-gateway.vpstv.net/streams/709009.m3u8
+
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",Astro AEC 2
+http://aplay.seres.cn/live/f3b39916b1a52ceb2ff218db517f2c0e.m3u8
+
+####################################### Singapore #######################################
+
+#EXTINF:-1 group-title="Singapore" tvg-id="Ch 8" ch-number="997" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/300px-Mediacorp_Channel_8_2023.svg.png",Channel 8
+https://hls-gateway.vpstv.net/streams/477032.m3u8
+
+#EXTINF:-1 group-title="Singapore" tvg-id="Ch U" ch-number="998" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/300px-Mediacorp_Channel_U_2023.svg.png",Channel U
+https://hls-gateway.vpstv.net/streams/476327.m3u8
+
+####################################### Documentaries #######################################
+
+#EXTINF:-1 tvg-id="NatGeoWild" ch-number="322" group-title="Documentaries" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild
+https://hls-gateway.vpstv.net/streams/476874.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature" ch-number="550" group-title="Documentaries" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",Love Nature
+https://hls-gateway.vpstv.net/streams/709639.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet" ch-number="556" group-title="Documentaries" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png",Animal Planet 1
+https://hls-gateway.vpstv.net/streams/476589.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet" ch-number="556" group-title="Documentaries" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png",Animal Planet 2
+https://hls-gateway.vpstv.net/streams/477749.m3u8
