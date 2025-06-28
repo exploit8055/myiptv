@@ -1,0 +1,37 @@
+name: Update Token
+
+on:
+  schedule:
+    - cron: "0 0,4 * * *"  # Runs at 08:00 and 12:00 UTC+8 (00:00 and 04:00 UTC)
+  workflow_dispatch:       # Allows manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install required Python packages
+        run: |
+          pip install requests
+
+      - name: Run update_token.py
+        run: python update_token.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "Update token via GitHub Actions"
+          git push
