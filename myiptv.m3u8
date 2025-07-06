@@ -24,13 +24,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d66e2fe5f045426195d432802f9ba807:6fe283a6f1f3a3fb69f82c4340e0dde2
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aecfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3MTUxNDIsImlzcyI6IlZSIiwiZXhwIjoxNzUxNzU0NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMDUzYTE3YjctOWEwOS00NTRiLWFmNGQtNzdlMmU2OTM2OGRmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.zDIu1KzG2nWSIrHcc3x-31WyFKZ6fOIlB_ztMIj1COs
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aecfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3ODQzNjEsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMDUzYTE3YjctOWEwOS00NTRiLWFmNGQtNzdlMmU2OTM2OGRmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.uWGfaKwm8nUpxx4C1DHlXDOOlJPxM6RmGIaR1wLhYMw
 
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",Astro AEC (Sooka)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"655b6df8085d4fe6b3f71c0f4288f98a":"5f0d4251e05e0a3a661218169ee84181","d66e2fe5f045426195d432802f9ba807":"6fe283a6f1f3a3fb69f82c4340e0dde2"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3MTUxNDIsImlzcyI6IlZSIiwiZXhwIjoxNzUxNzU0NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMDUzYTE3YjctOWEwOS00NTRiLWFmNGQtNzdlMmU2OTM2OGRmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.zDIu1KzG2nWSIrHcc3x-31WyFKZ6fOIlB_ztMIj1COs"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3ODQzNjEsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMDUzYTE3YjctOWEwOS00NTRiLWFmNGQtNzdlMmU2OTM2OGRmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.uWGfaKwm8nUpxx4C1DHlXDOOlJPxM6RmGIaR1wLhYMw"}
 https://l04.dp.sooka.my/2400/linear/index.mpd
 
 #EXTINF:-1 tvg-id="AstroQJ" ch-number="308" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Astro QJ
@@ -114,15 +114,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
 ####################################### China #######################################
 
 #EXTINF:-1 tvg-id="1" ch-number="1001" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China",CCTV-1
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV1
 http://106.52.196.79/TV/mui.php?id=cctv1
 
 #EXTINF:-1 tvg-id="9" ch-number="1009" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg" group-title="China",CCTV-9
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV9
 http://106.52.196.79/TV/mui.php?id=cctv9
 
 #EXTINF:-1 tvg-id="10" ch-number="1010" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv10.jpg" group-title="China",CCTV-10
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV10
 http://106.52.196.79/TV/mui.php?id=cctv10
 
 #EXTINF:-1 tvg-id="13" ch-number="1013" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv13.jpg" group-title="China",CCTV-13
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV13
 http://106.52.196.79/TV/mui.php?id=cctv13
 
 #EXTINF:-1 tvg-id="29" ch-number="1018" tvg-logo="https://www.tvchinese.net/uploads/tv/jiangsutv.jpg" group-title="China",Jiangsu TV
@@ -130,6 +134,7 @@ http://106.52.196.79/TV/mui.php?id=cctv13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
 https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
 http://106.52.196.79/TV/mui.php?id=jsws
 
 ####################################### Singapore #######################################
